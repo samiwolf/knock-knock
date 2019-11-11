@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Cow says",
+        "clientSetup": "Cow says who?",
+        "serverPunchline": "No, a cow says mooooo!"
+    },
+    {
+        "id": 2,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "A little old lady",
+        "clientSetup": "A little old lady who?",
+        "serverPunchline": "All this time, I had no idea you could yodel."
+    },
+    {
+        "id": 3,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Europe",
+        "clientSetup": "Europe who?",
+        "serverPunchline": "No I'm not!"
+    },
+    {
+        "id": 4,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Etch",
+        "clientSetup": "Etch who?",
+        "serverPunchline": "Bless you, friend."
+    },
+    {
+        "id": 5,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Robin",
+        "clientSetup": "Robin who?",
+        "serverPunchline": "Robin you, now hand over the cash."
+    },
+    {
+        "id": 6,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Cash",
+        "clientSetup": "Cash who?",
+        "serverPunchline": "No thanks, I'll have some peanuts."
+    },
+    {
+        "id": 7,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Mustache",
+        "clientSetup": "Mustache who?",
+        "serverPunchline": "I mustache you a question, but I'll shave it for later."
+    },
+    {
+        "id": 8,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Tank",
+        "clientSetup": "Tank who?",
+        "serverPunchline": "You're welcome."
+    },
+    {
+        "id": 9,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "I smell mop",
+        "clientSetup": "I smell mop who?",
+        "serverPunchline": "Ew."
+    },
+    {
+        "id": 10,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "I eat mop",
+        "clientSetup": "I eat mop who?",
+        "serverPunchline": "That's revolting."
+    },
+    {
+        "id": 11,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Ya",
+        "clientSetup": "Ya who?",
+        "serverPunchline": "Yahoo! I'm just as psyched to see you!"
+    },
+    {
+        "id": 12,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Voodoo",
+        "clientSetup": "Voodoo who?",
+        "serverPunchline": "Voodoo you think you are, asking me so many questions?"
+    },
+    {
+        "id": 13,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Spell",
+        "clientSetup": "Spell who?",
+        "serverPunchline": "Okay, okay: W. H. O."
+    },
+    {
+        "id": 14,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Candice",
+        "clientSetup": "Candice who?",
+        "serverPunchline": "Candice door open, or what?"
+    },
+    {
+        "id": 15,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Boo",
+        "clientSetup": "Boo who?",
+        "serverPunchline": "No need to cry, it's only a joke."
+    },
+    {
+        "id": 16,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Stopwatch",
+        "clientSetup": "Stopwatch who?",
+        "serverPunchline": "Stopwatch you're doing and pay attention!"
+    },
+    {
+        "id": 17,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "To",
+        "clientSetup": "To who?",
+        "serverPunchline": "It's to whom."
+    },
+    {
+        "id": 18,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Dewey",
+        "clientSetup": "Dewey who?",
+        "serverPunchline": "Dewey have to use a condom every time?"
+    },
+    {
+        "id": 19,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Honey bee",
+        "clientSetup": "Honey bee who?",
+        "serverPunchline": "Honey bee a dear and open up, would you?"
+    },
+    {
+        "id": 20,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Lettuce",
+        "clientSetup": "Lettuce who?",
+        "serverPunchline": "Lettuce in, it's cold out here!"
+    },
+    {
+        "id": 21,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Mikey",
+        "clientSetup": "Mikey who?",
+        "serverPunchline": "Mikey doesn't work so help me out, would you?"
+    },
+    {
+        "id": 22,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Dwayne",
+        "clientSetup": "Dwayne who?",
+        "serverPunchline": "Dwayne the bathtub already. I'm drowning!"
+    },
+    {
+        "id": 23,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Razor",
+        "clientSetup": "Razor who?",
+        "serverPunchline": "Razor hands, this is a stick up!"
+    },
+    {
+        "id": 24,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Olive",
+        "clientSetup": "Olive who?",
+        "serverPunchline": "Olive you. Do you love me too?"
+    },
+    {
+        "id": 25,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Alec",
+        "clientSetup": "Alec who?",
+        "serverPunchline": "Alec-tricity. Ain't that a shocker?"
+    },
+    {
+        "id": 26,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Howl",
+        "clientSetup": "Howl who?",
+        "serverPunchline": "Howl you know unless you open the door?"
+    },
+    {
+        "id": 27,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Iran",
+        "clientSetup": "Iran who?",
+        "serverPunchline": "Iran all the way here. Let me in already!"
+    },
+    {
+        "id": 28,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Says",
+        "clientSetup": "Says who?",
+        "serverPunchline": "Says me, that's who."
+    },
+    {
+        "id": 29,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Snow",
+        "clientSetup": "Snow who?",
+        "serverPunchline": "Snow use askin' when you can just open."
+    },
+    {
+        "id": 30,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Some",
+        "clientSetup": "Some who?",
+        "serverPunchline": "Some day you'll recognize me, hopefully."
+    },
+    {
+        "id": 31,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Stupid",
+        "clientSetup": "Stupid who?",
+        "serverPunchline": "Stupid you, that's who."
+    },
+    {
+        "id": 32,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Needle",
+        "clientSetup": "Needle who?",
+        "serverPunchline": "Needle little help gettin' through."
+    },
+    {
+        "id": 33,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Thermos",
+        "clientSetup": "Thermos who?",
+        "serverPunchline": "Thermos be a better way to get through to you."
+    },
+    {
+        "id": 34,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Water",
+        "clientSetup": "Water who?",
+        "serverPunchline": "Water you doing? Just open the door!"
+    },
+    {
+        "id": 35,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Amos",
+        "clientSetup": "Amos who?",
+        "serverPunchline": "A mosquito."
+    },
+    {
+        "id": 36,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Dozen",
+        "clientSetup": "Dozen who?",
+        "serverPunchline": "Dozen anyone wanna let me in?"
+    },
+    {
+        "id": 37,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Nanna",
+        "clientSetup": "Nanna who?",
+        "serverPunchline": "Nanna your business, that's who."
+    },
+    {
+        "id": 38,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Euripides",
+        "clientSetup": "Euripides who?",
+        "serverPunchline": "Euripides jeans, you pay for 'em, okay?"
+    },
+    {
+        "id": 39,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Annie",
+        "clientSetup": "Annie who?",
+        "serverPunchline": "Annie way you can let me in soon?"
+    },
+    {
+        "id": 40,
+        "serverKnock": "Knock knock!",
+        "clientWho": "Who's there?",
+        "serverSetup": "Canoe",
+        "clientSetup": "Canoe who?",
+        "serverPunchline": "Canoe come out or what?"
+    }
+]
